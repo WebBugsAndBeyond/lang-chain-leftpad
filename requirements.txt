@@ -1,0 +1,10 @@
+google-genai
+gradio
+transformers
+torch
+torchvision
+langchain
+langchain-google-genai
+protobuf
+python-dotenv
+langchain-core
